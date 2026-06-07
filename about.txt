@@ -1,2 +1,2 @@
 Shreya 
-Python is my fav programming language 
+I'm learning python with GIT
