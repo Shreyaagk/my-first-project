@@ -1,3 +1,7 @@
 Shreya 
 I love coding 
+<<<<<<< HEAD
 I am learning Python with Git on the master branch.
+=======
+I love coding in Python and JavaScript instead!
+>>>>>>> conflict-test
